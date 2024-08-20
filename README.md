@@ -16,7 +16,7 @@ This React app includes several components to demonstrate basic functionality an
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/OriChaiMatan/Hello-Angular.git
+   https://github.com/OriChaiMatan/Hello-React.git
 
 2. Open with Live Server
 ## Contributor
