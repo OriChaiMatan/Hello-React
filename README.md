@@ -1,4 +1,4 @@
-# Hello-Angular App
+# Hello-React App
 Welcome to my React Practice App! This project is a simple React application that I built to take my first steps in this powerful framework. It's a practice project designed to help me learn and improve my React skills.
 <img width="500" src="https://github.com/user-attachments/assets/8a28c3ef-0f44-408b-a55b-4a3cebfc2c92"/>
 ## Project Overview
