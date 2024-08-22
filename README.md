@@ -18,7 +18,13 @@ This React app includes several components to demonstrate basic functionality an
    ```bash
    https://github.com/OriChaiMatan/Hello-React.git
 
-2. Open with Live Server
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Start the application:
+   ```bash
+   npm run dev
 ## Contributor
   - ⁠[Ori Chai Matan](https://github.com/OriChaiMatan)
 ## Feel free to contact for any questions! 💻
